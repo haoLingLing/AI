@@ -1,0 +1,1 @@
+{"expo":{"name":"青账","slug":"qingzhang","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","ios":{"supportsTablet":true,"bundleIdentifier":"com.qingzhang.ledger"},"android":{"package":"com.qingzhang.ledger"},"plugins":["expo-document-picker"]}}
